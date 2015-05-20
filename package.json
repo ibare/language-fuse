@@ -1,11 +1,11 @@
 {
-  "name": "language-ux",
+  "name": "language-fuse",
   "version": "0.0.1",
   "description": "FUSE ux language support in Atom",
   "activationCommands": {
-    "atom-workspace": "language-ux:toggle"
+    "atom-workspace": "language-fuse:toggle"
   },
-  "repository": "https://github.com/ibare/language-ux",
+  "repository": "https://github.com/ibare/language-fuse",
   "license": "MIT",
   "engines": {
     "atom": "*",
