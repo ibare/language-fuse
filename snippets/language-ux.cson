@@ -1,0 +1,10 @@
+'.text.ux':
+  'Long Attribute Tag':
+    'prefix': '<a'
+    'body': '<${1:name} ${2:attr}="${3:value}">$4\n</${1:name}>'
+  'Long Tag':
+    'prefix': '<'
+    'body': '<${1:name}>$2</${1:name}>'
+  'Short Tag':
+    'prefix': '>'
+    'body': '<${1:name} />'
