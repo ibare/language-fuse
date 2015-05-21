@@ -5,10 +5,16 @@
   "activationCommands": {
     "atom-workspace": "language-fuse:toggle"
   },
-  "repository": "https://github.com/ibare/language-fuse",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ibare/language-fuse.git"
+  },
   "license": "MIT",
   "engines": {
     "atom": "*",
     "node": "*"
+  },
+  "bugs": {
+    "url": "https://github.com/ibare/language-fuse/issues"
   }
 }
