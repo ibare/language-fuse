@@ -1,6 +1,6 @@
 {
   "name": "language-fuse",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "FUSE ux language support in Atom",
   "activationCommands": {
     "atom-workspace": "language-fuse:toggle"
